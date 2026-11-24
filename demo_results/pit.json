@@ -1,0 +1,47 @@
+{
+  "survivorship": {
+    "symbols_ever_listed": 1500,
+    "symbols_listed_today": 1042,
+    "delisted_during_sample": 458,
+    "equal_weight": {
+      "survivors_only": 9.758491158626942,
+      "point_in_time": 2.7058642442355807
+    },
+    "buy_losers": {
+      "survivors_only": 31.86371850408704,
+      "point_in_time": 12.85721530269389
+    }
+  },
+  "revisions": {
+    "rows_restated": 2886,
+    "snapshots": 2,
+    "original_run": {
+      "ann_return_pct": 24.606504198950805,
+      "sharpe": 10.65401479677418
+    },
+    "rerun_latest": {
+      "ann_return_pct": 24.506146289644136,
+      "sharpe": 10.588611912065653
+    },
+    "rerun_pinned": {
+      "ann_return_pct": 24.606504198950805,
+      "sharpe": 10.65401479677418
+    },
+    "pinned_identical": true,
+    "latest_identical": false,
+    "files_at_snapshot_1": [
+      "year=2021/part-0.parquet",
+      "year=2022/part-0.parquet",
+      "year=2023/part-0.parquet",
+      "year=2024/part-0.parquet",
+      "year=2025/part-0.parquet"
+    ],
+    "files_now": [
+      "year=2021/part-0.parquet",
+      "year=2022/part-0.parquet",
+      "year=2023/part-1.parquet",
+      "year=2024/part-0.parquet",
+      "year=2025/part-0.parquet"
+    ]
+  }
+}

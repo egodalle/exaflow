@@ -1,0 +1,162 @@
+{
+  "paper": {
+    "ann_return_pct": 24.606504198950805,
+    "sharpe": 10.65401479677418,
+    "daily_turnover_pct": 65.29343071933337
+  },
+  "naive_at_10m": {
+    "aum": 10000000.0,
+    "ann_return_pct": -19.566599098198022,
+    "ann_vol_pct": 2.309408829447755,
+    "sharpe": -8.472557499867598,
+    "gross_sharpe": 10.65401479677418,
+    "ann_cost_pct": 44.17310329714883,
+    "daily_turnover_pct": 65.29343071933337
+  },
+  "aware_at_10m": {
+    "aum": 10000000.0,
+    "ann_return_pct": 3.2229876973283473,
+    "ann_vol_pct": 2.357472356214427,
+    "sharpe": 1.3671370053745804,
+    "gross_sharpe": 3.8771330148158483,
+    "ann_cost_pct": 5.917729963716366,
+    "daily_turnover_pct": 36.69040627556227
+  },
+  "naive_capacity_usd": null,
+  "aware_capacity_usd": 48820025.63430507,
+  "naive_curve": [
+    {
+      "aum": 1000000.0,
+      "ann_return_pct": -1.6186585803938853,
+      "ann_vol_pct": 2.3075316873003358,
+      "sharpe": -0.7014675418336778,
+      "gross_sharpe": 10.65401479677418,
+      "ann_cost_pct": 26.225162779344686,
+      "daily_turnover_pct": 65.29343071933337
+    },
+    {
+      "aum": 3000000.0,
+      "ann_return_pct": -7.6950310057712805,
+      "ann_vol_pct": 2.3077271064755926,
+      "sharpe": -3.3344631538879344,
+      "gross_sharpe": 10.65401479677418,
+      "ann_cost_pct": 32.30153520472208,
+      "daily_turnover_pct": 65.29343071933337
+    },
+    {
+      "aum": 10000000.0,
+      "ann_return_pct": -19.566599098198022,
+      "ann_vol_pct": 2.309408829447755,
+      "sharpe": -8.472557499867598,
+      "gross_sharpe": 10.65401479677418,
+      "ann_cost_pct": 44.17310329714883,
+      "daily_turnover_pct": 65.29343071933337
+    },
+    {
+      "aum": 30000000.0,
+      "ann_return_pct": -38.78177587383212,
+      "ann_vol_pct": 2.3157645331824184,
+      "sharpe": -16.746856305177374,
+      "gross_sharpe": 10.65401479677418,
+      "ann_cost_pct": 63.38828007278291,
+      "daily_turnover_pct": 65.29343071933337
+    },
+    {
+      "aum": 100000000.0,
+      "ann_return_pct": -76.32297044368096,
+      "ann_vol_pct": 2.3409878563809325,
+      "sharpe": -32.60289037196162,
+      "gross_sharpe": 10.65401479677418,
+      "ann_cost_pct": 100.92947464263176,
+      "daily_turnover_pct": 65.29343071933337
+    },
+    {
+      "aum": 300000000.0,
+      "ann_return_pct": -137.0866946974549,
+      "ann_vol_pct": 2.4163246068828568,
+      "sharpe": -56.733559020574454,
+      "gross_sharpe": 10.65401479677418,
+      "ann_cost_pct": 161.6931988964057,
+      "daily_turnover_pct": 65.29343071933337
+    },
+    {
+      "aum": 1000000000.0,
+      "ann_return_pct": -255.80237562172238,
+      "ann_vol_pct": 2.671910703323827,
+      "sharpe": -95.73762150939666,
+      "gross_sharpe": 10.65401479677418,
+      "ann_cost_pct": 280.4088798206732,
+      "daily_turnover_pct": 65.29343071933337
+    }
+  ],
+  "aware_curve": [
+    {
+      "aum": 1000000.0,
+      "ann_return_pct": 4.90462561156391,
+      "ann_vol_pct": 2.357469877161769,
+      "sharpe": 2.0804616250150096,
+      "gross_sharpe": 3.8771330148158483,
+      "ann_cost_pct": 4.236092049480804,
+      "daily_turnover_pct": 36.69040627556227
+    },
+    {
+      "aum": 3000000.0,
+      "ann_return_pct": 4.335297991974702,
+      "ann_vol_pct": 2.3574608973017512,
+      "sharpe": 1.8389692049342994,
+      "gross_sharpe": 3.8771330148158483,
+      "ann_cost_pct": 4.805419669070011,
+      "daily_turnover_pct": 36.69040627556227
+    },
+    {
+      "aum": 10000000.0,
+      "ann_return_pct": 3.2229876973283473,
+      "ann_vol_pct": 2.357472356214427,
+      "sharpe": 1.3671370053745804,
+      "gross_sharpe": 3.8771330148158483,
+      "ann_cost_pct": 5.917729963716366,
+      "daily_turnover_pct": 36.69040627556227
+    },
+    {
+      "aum": 30000000.0,
+      "ann_return_pct": 1.422615684584552,
+      "ann_vol_pct": 2.3575722106004613,
+      "sharpe": 0.603424013138592,
+      "gross_sharpe": 3.8771330148158483,
+      "ann_cost_pct": 7.718101976460161,
+      "daily_turnover_pct": 36.69040627556227
+    },
+    {
+      "aum": 100000000.0,
+      "ann_return_pct": -2.0948183113509247,
+      "ann_vol_pct": 2.358057262627342,
+      "sharpe": -0.8883661752203943,
+      "gross_sharpe": 3.8771330148158483,
+      "ann_cost_pct": 11.235535972395638,
+      "daily_turnover_pct": 36.69040627556227
+    },
+    {
+      "aum": 300000000.0,
+      "ann_return_pct": -7.788094507243009,
+      "ann_vol_pct": 2.3596546313954283,
+      "sharpe": -3.3005230526627387,
+      "gross_sharpe": 3.8771330148158483,
+      "ann_cost_pct": 16.92881216828772,
+      "daily_turnover_pct": 36.69040627556227
+    },
+    {
+      "aum": 1000000000.0,
+      "ann_return_pct": -18.91119745370656,
+      "ann_vol_pct": 2.3656643631165144,
+      "sharpe": -7.99403235241412,
+      "gross_sharpe": 3.8771330148158483,
+      "ann_cost_pct": 28.051915114751267,
+      "daily_turnover_pct": 36.69040627556227
+    }
+  ],
+  "settings": {
+    "liquid_adv_usd": 10000000.0,
+    "smoothing": 0.5,
+    "impact_Y": 0.7
+  }
+}

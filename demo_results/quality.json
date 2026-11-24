@@ -1,0 +1,50 @@
+{
+  "rows": 20039460,
+  "injected": {
+    "duplicate": 10005,
+    "bad_size": 10000,
+    "off_session": 9985,
+    "bad_price": 9985,
+    "swapped_pairs": 9985
+  },
+  "detection": {
+    "duplicate": {
+      "injected": 10005,
+      "caught": 10005
+    },
+    "bad_size": {
+      "injected": 10000,
+      "caught": 10000
+    },
+    "off_session": {
+      "injected": 9985,
+      "caught": 9985
+    },
+    "bad_price": {
+      "injected": 9985,
+      "caught": 9985
+    }
+  },
+  "out_of_order_resorted": 19954,
+  "without_gate": {
+    "bars_truth": 479999,
+    "bars_wrong": 41620,
+    "bars_phantom": 9985,
+    "bars_missing": 0,
+    "worst_high_error_pct": 900.3,
+    "fake_5pct_moves": 254,
+    "true_5pct_moves": 0,
+    "max_rv30_x_truth": 397.3
+  },
+  "with_gate": {
+    "bars_truth": 479999,
+    "bars_wrong": 0,
+    "bars_phantom": 0,
+    "bars_missing": 0,
+    "worst_high_error_pct": 0.0,
+    "fake_5pct_moves": 0,
+    "true_5pct_moves": 0,
+    "max_rv30_x_truth": 1.0
+  },
+  "gated_identical_to_truth": true
+}
